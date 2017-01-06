@@ -1,7 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Andy, a Trainee Solicitor in the Birmingham office\n",
-    "HELLO": "Hey, my name is LegalBot! I work for Andy, who works for Pinsent Masons\n Which is a law firm(http://www.google.co.uk)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Hey, my name is LegalBot! I work for Andy, who works for Pinsent Masons\n Which is a law firm\n %[Google](http://www.google.co.uk)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
