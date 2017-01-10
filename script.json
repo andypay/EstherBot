@@ -5,7 +5,7 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, ReplyBot is back.",
     "TEST": "I like this",
-    "BUTTONS": "%[Link](http://www.google.co.uk)\n %[Reply](reply:Reply)"
-    "THIS WORKS": "No it doesn't"
+    "BUTTONS": "%[Link](http://www.google.co.uk)\n %[Reply](reply:Reply)",
+    "THIS WORKS": "No it doesn't",
     "REPLY": "%[Reply](reply:Reply)"
 }
