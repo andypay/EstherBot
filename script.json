@@ -3,7 +3,9 @@
     "HELLO": "Hey, my name is LegalBot! I work for Andy, who works for Pinsent Masons\n Which is a law firm\n %[Google](http://www.google.co.uk)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back.",
+    "DISCONNECT": "Roger that, ReplyBot is back.",
     "TEST": "I like this",
+    "BUTTONS": "%[Link](http://www.google.co.uk)\n %[Reply](reply:Reply)"
     "THIS WORKS": "No it doesn't"
+    "REPLY": "%[Reply](reply:Reply)"
 }
