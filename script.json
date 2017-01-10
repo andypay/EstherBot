@@ -7,7 +7,8 @@
     "TEST": "I like this",
     "BUTTONS": "%[Link](http://www.google.co.uk)\n %[Reply](reply:Reply)",
     "THIS WORKS": "No it doesn't",
-    "REPLY": "%[Reply](reply:Reply)",  
+    "REPLY": "%[Reply](reply:Reply)",
+    "REPLY2": "%[ReplyA](reply:ReplyA)\n %[ReplyB](reply:ReplyB)",
     "FAQ": "%[How do I apply for a vacation placement or training contract?](reply:How do I apply for a vacation placement or training contract?)\n %[What are your application deadlines?](reply:What are your application deadlines?)\n %[I am completing a Law degree – does it matter what modules I choose to study?](reply:I am completing a Law degree – does it matter what modules I choose to study?)",
     "How do I apply for a vacation placement or training contract?": "All applications must be made online using the ‘Apply’ section of the graduate website. Candidates who undertake a vacation scheme will automatically be considered for a training contract and so are not required to make a separate training contract application.",
     "I am completing a Law degree – does it matter what modules I choose to study?": "Pinsent Masons does not stipulate that you need to have studied particular modules as part of your undergraduate studies, however, we would expect that students who are keen to pursue a career in commercial law will have taken the opportunity to further their knowledge in this area through choosing relevant modules, when the opportunity has arisen."
