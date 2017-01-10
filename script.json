@@ -11,5 +11,5 @@
     "FAQ": "%[Option 1](reply:Option 1)\n %[Option 2](reply:Option 2)\n %[Option 3](reply:Option 3)",
     "Option 1": "The first option",
     "Option 2": "The second option\n Plan B",
-    "Option 3": "The third option\n Panic\n Cry",
+    "Option 3": "The third option\n Panic\n Cry"
 }
