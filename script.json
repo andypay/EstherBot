@@ -7,6 +7,7 @@
     "TEST": "I like this",
     "BUTTONS": "%[Link](http://www.google.co.uk)\n %[Reply](reply:Reply)",
     "THIS WORKS": "No it doesn't",
+    "WHAT": "%[This works](postback:this_works)",
     "REPLY": "%[Reply](reply:Reply)",
     "REPLY2": "%[ReplyA](reply:ReplyA)\n %[ReplyB](reply:ReplyB)",
     "FAQ": "%[How do I apply for a vacation placement or training contract?](reply:How do I apply for a vacation placement or training contract?)\n %[What are your application deadlines?](reply:What are your application deadlines?)\n %[I am completing a Law degree – does it matter what modules I choose to study?](reply:I am completing a Law degree – does it matter what modules I choose to study?)",
