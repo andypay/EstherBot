@@ -8,6 +8,7 @@
     "BUTTONS": "%[Link](http://www.google.co.uk)\n %[Reply](reply:Reply)",
     "THIS WORKS": "No it doesn't",
     "REPLY": "%[Reply](reply:Reply)",
+    "REPLY2": "%[ReplyA](reply:ReplyA)\n %[ReplyB](reply:ReplyB1)",
     "FAQ": "%[Option 1](reply:Option 1)\n %[Option 2](reply:Option 2)\n %[Option 3](reply:Option 3)",
     "Option 1": "The first option",
     "Option 2": "The second option\n Plan B",
